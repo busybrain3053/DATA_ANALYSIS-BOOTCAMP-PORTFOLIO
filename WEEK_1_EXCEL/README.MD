@@ -4,7 +4,7 @@
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Excel Fundamentals | Data Protection | Analytical Automation  
 
-![Insert Excel Analysis Screenshot Here](insert-your-image-link-here)
+![Insert Excel Analysis Screenshot Here](WEEK_1_EXCEL/VISUAL)
 
 ---
 
