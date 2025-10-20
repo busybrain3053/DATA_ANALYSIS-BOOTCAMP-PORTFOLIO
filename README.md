@@ -21,11 +21,11 @@ The bootcamp focused on **financial, health, and economic datasets**, analysing 
 
 | Folder | Topic | Description |
 |--------|--------|-------------|
-| **[WEEK 1 EXCEL](./WEEK%201%20EXCEL/README.md)** | Excel Fundamentals | Developed advanced spreadsheet skills including PivotTables, SWITCH, VLOOKUP, XLOOKUP, and Macro automation. Applied Excel functions to business and financial data while exploring GDPR, FOIA, and DPA principles. |
-| **[WEEK 2 TABLEAU & POWER BI](./WEEK%202%20TABLEAU%20%26%20POWER%20BI/README.md)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. Focused on KPI analysis, trend comparison, and visual storytelling through Tableau and Power BI. |
-| **[WEEK 3 SQL](./WEEK%203%20SQL/README.md)** | Relational Databases | Created and queried structured databases using SQL. Designed a retail business schema and practised all join types to extract and analyse customer and transaction data. |
-| **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK%204%20AZURE%20CLOUD%20FOR%20DATA%20ANALYSIS%20AND%20ENGINEERING/README.md)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. Created a data model and Power BI connection for the Paws and Whiskers case study. |
-| **[WEEK 6 PYTHON, PANDAS, SEABORN, MATPLOTLIB](./WEEK%206%20PYTHON%2C%20PANDAS%2C%20SEABORN%2C%20MATPLOTLIB/README.md)** | Python Analytics | Applied Python programming for data manipulation, cleaning, and visualisation. Analysed GDP per Capita and student performance datasets using Pandas, Matplotlib, and Seaborn. |
+| **[WEEK 1 EXCEL](./WEEK_1_EXCEL/README.md)** | Excel Fundamentals | Developed advanced spreadsheet skills including PivotTables, SWITCH, VLOOKUP, XLOOKUP, and Macro automation. |
+| **[WEEK 2 TABLEAU AND POWER BI](./WEEK_2_TABLEAU_AND_POWER_BI/README.md)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. |
+| **[WEEK 3 SQL](./WEEK_3_SQL/README.md)** | Relational Databases | Created and queried structured databases using SQL. |
+| **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK_4_AZURE_CLOUD_FOR_DATA_ANALYSIS_AND_ENGINEERING/README.md)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. |
+| **[WEEK 6 PYTHON PANDAS SEABORN MATPLOTLIB](./WEEK_6_PYTHON_PANDAS_SEABORN_MATPLOTLIB/README.md)** | Python Analytics | Applied Python programming for data manipulation and GDP per Capita analysis. |
 
 ---
 
