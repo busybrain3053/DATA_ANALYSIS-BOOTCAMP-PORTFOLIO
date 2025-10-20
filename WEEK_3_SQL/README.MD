@@ -109,11 +109,5 @@ This relational design ensures efficient querying, inventory management, and loy
 By completing this module, I built a strong foundation in relational database management and analytical querying.  
 I can now create, populate, and query databases from scratch — a critical skill for developing finance, health, and digital-inclusion analytics pipelines.
 
----
-
-## Screenshot / Example  
-
-*Insert your SQL ER diagram, query output, or dataset preview here*  
-![SQL Query Output Placeholder](insert-your-image-link-here)
 
 ---
