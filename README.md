@@ -1,7 +1,5 @@
 # Data Analyst Bootcamp Portfolio  
 
-![Insert Cover Image or Dashboard Collage Here](insert-your-image-link-here)
-
 **Author:** Destiny Noruwa  
 **Bootcamp Duration:** 8 Weeks  
 **Specialisation:** Finance | Health | Economic Data Analysis  
@@ -84,12 +82,6 @@ My goal is to use these insights to drive better decision-making in real-world b
 
 ---
 
-## Screenshot / Overview  
-
-*Insert a collage or dashboard summary image here*  
-![Portfolio Overview Placeholder](insert-your-image-link-here)
-
----
 
 ## Connect  
 
