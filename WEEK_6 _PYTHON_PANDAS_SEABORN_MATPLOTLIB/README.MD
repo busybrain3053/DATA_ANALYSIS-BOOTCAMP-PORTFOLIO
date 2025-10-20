@@ -1,12 +1,14 @@
 # Week 6 – Python, Pandas, Matplotlib & Seaborn  
 
-![Insert Python Script or Data Visualisation Screenshot Here](insert-your-image-link-here)
 
 **Author:** Destiny Noruwa  
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Data Manipulation | Data Visualisation | Analytical Programming  
 
 ---
+![Python Visualisation](./VISUAL/PYTHONVISUAL.png)
+
+
 
 ## Overview  
 
@@ -83,9 +85,3 @@ The exercises also deepened my understanding of how economic and educational dat
 
 ---
 
-## Screenshot / Visual Example  
-
-*Insert your Python notebook output, Seaborn plot, or GDP visualisation image here*  
-![Python Data Visualisation Placeholder](insert-your-image-link-here)
-
----
