@@ -68,7 +68,7 @@ Integrated SQL, Data Lake, and Power BI dashboards for real-time reporting under
 
 ## Learning Journey  
 
-The bootcamp built my ability to work across every stage of the data pipeline — from raw input to polished insights.  
+The bootcamp built my ability to work across every stage of the data pipeline from raw input to polished insights.  
 I developed a strong understanding of both the technical and ethical dimensions of analytics, learning to present data visually, interpret trends critically, and communicate findings effectively.  
 
 Each module advanced my practical knowledge, culminating in a confident ability to work across **Excel, SQL, Power BI, Azure, and Python** for modern data analysis.
