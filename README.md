@@ -85,6 +85,6 @@ My goal is to use these insights to drive better decision-making in real-world b
 
 ## Connect  
 
-[LinkedIn](https://www.linkedin.com/in/destiny-noruwa)  
-[GitHub](https://github.com/yourusername)  
+[LinkedIn](https://www.linkedin.com/in/deenoruwa123211)  
+[GitHub](https://(https://github.com/busybrain3053)
 Email: destinynoruwa@gmail.com
