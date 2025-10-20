@@ -10,10 +10,10 @@
 
 ## Overview  
 
-This repository showcases my journey through an eight-week Data Analyst Bootcamp, where I learned how to transform raw data into meaningful insights using tools such as **Excel, SQL, Power BI, Tableau, Azure Cloud, and Python**.  
-Each folder represents a completed weekly module that builds upon the previous one, showing my progression from spreadsheet analysis to coding, cloud integration, and visual storytelling.
+This repository showcases my journey through an eight-week Data Analyst Bootcamp, where I learned to transform raw data into meaningful insights using **Excel, SQL, Power BI, Tableau, Azure Cloud, and Python**.  
+Each folder represents a completed weekly module that builds upon the previous one, showing my progression from spreadsheet analysis to coding, cloud integration, and visual storytelling.  
 
-The focus throughout the bootcamp was on understanding and analysing **financial, health, and economic datasets**, applying data-driven methods to real-world problems such as global GDP performance and healthcare indicators.
+The bootcamp focused on **financial, health, and economic datasets**, analysing global GDP performance and health indicators to develop data-driven insights.
 
 ---
 
@@ -25,7 +25,7 @@ The focus throughout the bootcamp was on understanding and analysing **financial
 | **[WEEK 2 TABLEAU & POWER BI](./WEEK%202%20TABLEAU%20%26%20POWER%20BI/README.md)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. Focused on KPI analysis, trend comparison, and visual storytelling through Tableau and Power BI. |
 | **[WEEK 3 SQL](./WEEK%203%20SQL/README.md)** | Relational Databases | Created and queried structured databases using SQL. Designed a retail business schema and practised all join types to extract and analyse customer and transaction data. |
 | **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK%204%20AZURE%20CLOUD%20FOR%20DATA%20ANALYSIS%20AND%20ENGINEERING/README.md)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. Created a data model and Power BI connection for the Paws and Whiskers case study. |
-| **[WEEK 6 PYTHON, PANDAS, SEABORN, MATPLOTLIB](./WEEK%206%20PYTHON,%20PANDAS,%20SEABORN,%20MATPLOTLIB/README.md)** | Python Analytics | Applied Python programming for data manipulation, cleaning, and visualisation. Analysed GDP per Capita and student performance datasets using Pandas, Matplotlib, and Seaborn. |
+| **[WEEK 6 PYTHON, PANDAS, SEABORN, MATPLOTLIB](./WEEK%206%20PYTHON%2C%20PANDAS%2C%20SEABORN%2C%20MATPLOTLIB/README.md)** | Python Analytics | Applied Python programming for data manipulation, cleaning, and visualisation. Analysed GDP per Capita and student performance datasets using Pandas, Matplotlib, and Seaborn. |
 
 ---
 
@@ -92,11 +92,6 @@ My goal is to use these insights to drive better decision-making in real-world b
 ---
 
 ## Connect  
-
-[LinkedIn](https://www.linkedin.com/in/destiny-noruwa)  
-[GitHub](https://github.com/yourusername)  
-Email: destinynoruwa@gmail.com
-
 
 [LinkedIn](https://www.linkedin.com/in/destiny-noruwa)  
 [GitHub](https://github.com/yourusername)  
