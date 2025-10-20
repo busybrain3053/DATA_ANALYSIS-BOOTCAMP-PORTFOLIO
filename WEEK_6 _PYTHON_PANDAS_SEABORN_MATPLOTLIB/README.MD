@@ -13,7 +13,7 @@
 ## Overview  
 
 This workbook introduced the use of **Python** for real-world data analysis, enabling the automation of tasks previously performed in Excel.  
-It focused on building confidence in handling data programmatically — from importing and cleaning datasets with **Pandas** to exploring and visualising trends using **Matplotlib** and **Seaborn**.  
+It focused on building confidence in handling data programmatically  from importing and cleaning datasets with **Pandas** to exploring and visualising trends using **Matplotlib** and **Seaborn**.  
 
 Through hands-on exercises such as **FizzBuzz**, the **Student dataset**, and **GDP (Nominal) per Capita**, I developed strong skills in coding logic, data transformation, and creating polished visual insights.
 
