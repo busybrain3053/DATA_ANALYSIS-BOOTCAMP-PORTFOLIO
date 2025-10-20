@@ -107,7 +107,7 @@ This relational design ensures efficient querying, inventory management, and loy
 ## Outcome  
 
 By completing this module, I built a strong foundation in relational database management and analytical querying.  
-I can now create, populate, and query databases from scratch — a critical skill for developing finance, health, and digital-inclusion analytics pipelines.
+I can now create, populate, and query databases from scratch  a critical skill for developing finance, health, and digital-inclusion analytics pipelines.
 
 
 ---
