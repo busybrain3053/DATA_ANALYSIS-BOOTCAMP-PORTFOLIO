@@ -13,7 +13,7 @@
 ## Overview  
 
 This workbook focused on transforming raw datasets into **clear, interactive visual stories** using **Tableau** and **Microsoft Power BI**.  
-Through the analysis of real-world data — including **Spotify streaming trends** and **global health indicators** — I learned to design dashboards that highlight key performance insights, uncover patterns, and communicate findings effectively to a professional audience.
+Through the analysis of real-world data including **Spotify streaming trends** and **global health indicators** I learned to design dashboards that highlight key performance insights, uncover patterns, and communicate findings effectively to a professional audience.
 
 The exercises bridged technical design and analytical storytelling, combining statistical interpretation with creative presentation to deliver accessible, evidence-based insights for decision-makers.
 
@@ -67,7 +67,7 @@ The exercises bridged technical design and analytical storytelling, combining st
 ## Insights and Findings  
 
 - **Spotify Trends:** Pop and Dance genres consistently dominated global popularity, with higher danceability scores directly correlating with listener engagement.  
-- **Health Analysis:** Discovered strong relationships between **BMI and life expectancy**, and identified **regional disparities** in cancer reporting — likely influenced by healthcare access and data quality.  
+- **Health Analysis:** Discovered strong relationships between **BMI and life expectancy**, and identified **regional disparities** in cancer reporting  likely influenced by healthcare access and data quality.  
 - **Population Growth Patterns:** Africa and Asia showed rapid growth rates, highlighting areas of future healthcare demand and infrastructure need.  
 
 ---
@@ -75,7 +75,7 @@ The exercises bridged technical design and analytical storytelling, combining st
 ## Outcome  
 
 By the end of this module, I was confident in building interactive, data-driven dashboards that combined design precision with analytical storytelling.  
-These skills provided a strong foundation for professional-level visualisation and insight reporting — bridging the gap between complex datasets and strategic decision-making.
+These skills provided a strong foundation for professional-level visualisation and insight reporting  bridging the gap between complex datasets and strategic decision-making.
 
 
 ---
