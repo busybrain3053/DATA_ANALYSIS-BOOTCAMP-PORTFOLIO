@@ -4,17 +4,16 @@
 
 **Author:** Destiny Noruwa  
 **Bootcamp Duration:** 8 Weeks  
-**Specialisation:** Finance | Health | Digital Divide Analytics  
+**Specialisation:** Finance | Health | Economic Data Analysis  
 
 ---
 
 ## Overview  
 
-This repository documents my complete journey through an **8-week Data Analyst Bootcamp**, where I mastered the end-to-end process of data analytics — from cleaning and structuring datasets to creating automated visual dashboards and deploying secure cloud architectures.  
+This repository showcases my journey through an eight-week Data Analyst Bootcamp, where I learned how to transform raw data into meaningful insights using tools such as **Excel, SQL, Power BI, Tableau, Azure Cloud, and Python**.  
+Each folder represents a completed weekly module that builds upon the previous one, showing my progression from spreadsheet analysis to coding, cloud integration, and visual storytelling.
 
-Each folder represents a different technical domain I explored during the course, showing the progression of my analytical, technical, and storytelling skills.  
-
-The projects focus on **finance**, **health**, and **digital inclusion**, using real-world data to uncover insights about performance, inequality, and opportunity.
+The focus throughout the bootcamp was on understanding and analysing **financial, health, and economic datasets**, applying data-driven methods to real-world problems such as global GDP performance and healthcare indicators.
 
 ---
 
@@ -22,76 +21,82 @@ The projects focus on **finance**, **health**, and **digital inclusion**, using 
 
 | Folder | Topic | Description |
 |--------|--------|-------------|
-| **[Folder 1 – Excel & Data Ethics](./Folder_1_Excel_Data_Ethics/README.md)** | Excel Fundamentals | Introduced data manipulation, PivotTables, SWITCH, VLOOKUP, and Macro automation. Explored GDPR, FOIA, and DPA principles for ethical data handling. |
-| **[Folder 2 – Tableau & Power BI](./Folder_2_Tableau_PowerBI/README.md)** | Data Visualisation | Created interactive dashboards for Spotify and Health data using Tableau and Power BI. Focused on visual storytelling and KPI design. |
-| **[Folder 3 – SQL](./Folder_3_SQL/README.md)** | Relational Databases | Designed and queried databases for a retail business, covering joins, schema design, and practical data querying scenarios. |
-| **[Folder 4 – Azure Cloud](./Folder_4_Azure_Cloud/README.md)** | Cloud Data Architecture | Built a secure, automated Azure environment for the “Paws & Whiskers” business case. Integrated SQL, Data Lake, Synapse, and Power BI while ensuring GDPR compliance. |
-| **[Folder 6 – Python, Pandas, Matplotlib & Seaborn](./Folder_6_Python_Pandas_Matplotlib_Seaborn/README.md)** | Data Automation & Visualisation | Developed Python scripts to clean, aggregate, and visualise student and GDP datasets using Pandas, Matplotlib, and Seaborn. |
+| **[WEEK 1 EXCEL](./WEEK%201%20EXCEL/README.md)** | Excel Fundamentals | Developed advanced spreadsheet skills including PivotTables, SWITCH, VLOOKUP, XLOOKUP, and Macro automation. Applied Excel functions to business and financial data while exploring GDPR, FOIA, and DPA principles. |
+| **[WEEK 2 TABLEAU & POWER BI](./WEEK%202%20TABLEAU%20%26%20POWER%20BI/README.md)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. Focused on KPI analysis, trend comparison, and visual storytelling through Tableau and Power BI. |
+| **[WEEK 3 SQL](./WEEK%203%20SQL/README.md)** | Relational Databases | Created and queried structured databases using SQL. Designed a retail business schema and practised all join types to extract and analyse customer and transaction data. |
+| **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK%204%20AZURE%20CLOUD%20FOR%20DATA%20ANALYSIS%20AND%20ENGINEERING/README.md)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. Created a data model and Power BI connection for the Paws and Whiskers case study. |
+| **[WEEK 6 PYTHON, PANDAS, SEABORN, MATPLOTLIB](./WEEK%206%20PYTHON,%20PANDAS,%20SEABORN,%20MATPLOTLIB/README.md)** | Python Analytics | Applied Python programming for data manipulation, cleaning, and visualisation. Analysed GDP per Capita and student performance datasets using Pandas, Matplotlib, and Seaborn. |
 
 ---
 
 ## Tools and Technologies  
 
-**Core Analytics Tools**  
+**Analytics Tools**  
 Excel • SQL • Power BI • Tableau • Python • Pandas • Matplotlib • Seaborn  
 
-**Cloud & Data Infrastructure**  
-Azure Data Factory • Azure SQL Database • Azure Data Lake • Synapse Analytics  
+**Cloud and Integration**  
+Azure SQL Database • Azure Data Factory • Azure Data Lake • Synapse Analytics  
 
-**Other Technologies**  
-Macros • VLOOKUP/XLOOKUP • DAX • Jupyter Notebooks • GDPR/Data Governance Frameworks  
+**Techniques and Methods**  
+VLOOKUP • XLOOKUP • PivotTables • DAX • Data Cleaning • Grouping and Aggregation • ETL Pipelines • Data Visualisation  
 
 ---
 
-## Core Skills Developed  
+## Core Skills  
 
-- Data Cleaning and Transformation  
-- Dashboard Design and Visual Storytelling  
-- Database Design and Query Optimisation  
-- Cloud Data Integration and Security  
-- Python Programming for Data Analysis  
-- Ethical Data Management and Compliance  
+- Data Cleaning, Validation, and Preparation  
+- Dashboard Design and Data Storytelling  
+- Relational Database Design and Querying  
+- Cloud Data Architecture and Automation  
+- Python Programming for Analytical Workflows  
+- Data Governance and GDPR Compliance  
 
 ---
 
 ## Key Projects  
 
-### 🧩 The Digital Divide Dashboard  
-A multi-layered Power BI and Python analysis visualising **broadband affordability**, **GDP per capita**, and **digital access inequalities**. Demonstrates my ability to combine economic and technological indicators to tell a data-driven story about inclusion.
+### 💹 GDP per Capita Analysis  
+Analysed global GDP data to compare regional performance, explore economic growth patterns, and identify disparities.  
+Used Python, Pandas, and Matplotlib to clean and visualise data, presenting economic trends through charts and grouped summaries.  
 
-### 🐾 Paws & Whiskers – Azure Cloud Architecture  
-A full-scale Azure data solution designed for a retail business.  
-Features automated ETL pipelines, GDPR-compliant storage, and Power BI dashboards showing customer loyalty and inventory performance.
+### 🎧 Spotify and Health Data Dashboards  
+Created interactive Tableau and Power BI dashboards combining music and health data to uncover correlations between lifestyle, health metrics, and regional patterns.  
 
-### 🎧 Spotify & Health Data Visuals  
-Built in Tableau and Power BI, comparing **genre popularity trends** with **global health metrics** to explore behavioural patterns and demographic contrasts.
+### 🐾 Paws and Whiskers – Azure Cloud Case Study  
+Designed a full Azure cloud architecture for a retail client to manage and automate sales and customer data.  
+Integrated SQL, Data Lake, and Power BI dashboards for real-time reporting under GDPR compliance.
 
 ---
 
 ## Learning Journey  
 
-This programme refined how I approach data — not just technically, but critically and ethically.  
-I learned to view datasets as stories that connect finance, health, and digital opportunity, and to use data analytics as a bridge between technology and decision-making.  
+The bootcamp built my ability to work across every stage of the data pipeline — from raw input to polished insights.  
+I developed a strong understanding of both the technical and ethical dimensions of analytics, learning to present data visually, interpret trends critically, and communicate findings effectively.  
 
-Each module layered new capabilities: from Excel logic and SQL relationships to Power BI dashboards, Python automation, and Azure integration.  
-By the end, I developed a **full-stack analytical workflow** — taking data from raw source to insight-ready visualisation.
+Each module advanced my practical knowledge, culminating in a confident ability to work across **Excel, SQL, Power BI, Azure, and Python** for modern data analysis.
 
 ---
 
 ## Next Steps  
 
-I’m continuing to build projects that explore the intersection of **financial analysis**, **health data**, and **digital inclusion**, applying advanced analytics techniques to understand how connectivity and opportunity interact globally.  
+I am continuing to develop my analytical portfolio by exploring finance and health datasets that connect economic indicators with human outcomes.  
+My goal is to use these insights to drive better decision-making in real-world business and policy contexts.
 
 ---
 
-## Screenshot / Visual Overview  
+## Screenshot / Overview  
 
-*Insert a collage or summary visual from your projects here*  
-![Portfolio Cover Placeholder](insert-your-image-link-here)
+*Insert a collage or dashboard summary image here*  
+![Portfolio Overview Placeholder](insert-your-image-link-here)
 
 ---
 
 ## Connect  
+
+[LinkedIn](https://www.linkedin.com/in/destiny-noruwa)  
+[GitHub](https://github.com/yourusername)  
+Email: destinynoruwa@gmail.com
+
 
 [LinkedIn](https://www.linkedin.com/in/destiny-noruwa)  
 [GitHub](https://github.com/yourusername)  
