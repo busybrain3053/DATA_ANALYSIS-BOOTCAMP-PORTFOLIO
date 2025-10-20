@@ -17,15 +17,16 @@ The bootcamp focused on **financial, health, and economic datasets**, analysing 
 
 ---
 
-## Repository Structure  
+## Repository Structure   
 
 | Folder | Topic | Description |
 |--------|--------|-------------|
 | **[WEEK 1 EXCEL](./WEEK_1_EXCEL/README.MD)** | Excel Fundamentals | Developed advanced spreadsheet skills including PivotTables, SWITCH, VLOOKUP, XLOOKUP, and Macro automation. |
-| **[WEEK 2 TABLEAU AND POWER BI](./WEEK_2 _TABLEAU_& _POWER_BI/README.MD)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. |
+| **[WEEK 2 TABLEAU AND POWER BI](./WEEK_2_TABLEAU_AND_POWER_BI/README.MD)** | Data Visualisation | Built interactive dashboards using Spotify and global Health datasets. |
 | **[WEEK 3 SQL](./WEEK_3_SQL/README.MD)** | Relational Databases | Created and queried structured databases using SQL. |
-| **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK_4 _AZURE_CLOUD_FOR_DATA_ANALYSIS_AND_ENGINEERING/README.MD)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. |
-| **[WEEK 6 PYTHON PANDAS SEABORN MATPLOTLIB](./WEEK_6 _PYTHIN_PANDAS_SEABORN_MATPLOTLIB/README.MD)** | Python Analytics | Applied Python programming for data manipulation and GDP per Capita analysis. |
+| **[WEEK 4 AZURE CLOUD FOR DATA ANALYSIS AND ENGINEERING](./WEEK_4_AZURE_CLOUD_FOR_DATA_ANALYSIS_AND_ENGINEERING/README.MD)** | Cloud Data Architecture | Designed a compliant cloud environment for business analytics using Azure SQL, Data Factory, Data Lake, and Synapse. |
+| **[WEEK 6 PYTHON PANDAS SEABORN MATPLOTLIB](./WEEK_6_PYTHON_PANDAS_SEABORN_MATPLOTLIB/README.MD)** | Python Analytics | Applied Python programming for data manipulation and GDP per Capita analysis. |
+
 
 ---
 
