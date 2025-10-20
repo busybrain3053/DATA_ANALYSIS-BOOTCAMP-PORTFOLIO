@@ -4,7 +4,9 @@
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Data Visualisation | Dashboard Design | Business Insights  
 
-![Insert Tableau or Power BI Dashboard Screenshot Here](insert-your-image-link-here)
+![Tableau and Power BI Dashboard](./VISUAL/TABLEAUDASHBOARD.png)
+![Power BI Dashboard](./VISUAL/POWERBIDASHBOARD.png)
+
 
 ---
 
@@ -75,11 +77,5 @@ The exercises bridged technical design and analytical storytelling, combining st
 By the end of this module, I was confident in building interactive, data-driven dashboards that combined design precision with analytical storytelling.  
 These skills provided a strong foundation for professional-level visualisation and insight reporting — bridging the gap between complex datasets and strategic decision-making.
 
----
-
-## Screenshot / Dashboard Example  
-
-*Insert your Tableau or Power BI dashboard image here*  
-![Power BI Dashboard Placeholder](insert-your-image-link-here)
 
 ---
