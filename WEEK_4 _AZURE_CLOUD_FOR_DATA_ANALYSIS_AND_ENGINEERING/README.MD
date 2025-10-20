@@ -112,11 +112,5 @@ Integrated **Power BI** directly with Azure SQL and Synapse to visualise KPIs su
 This module strengthened my understanding of **cloud-based data ecosystems** and their real-world use in finance, retail, and health analytics.  
 By combining Azure infrastructure with strong governance principles, I learned to design systems that are **efficient, secure, and compliant** — the core of modern data strategy.
 
----
-
-## Screenshot / Architecture Example  
-
-*Insert your Azure data architecture diagram or Power BI report image here*  
-![Azure Cloud Architecture Placeholder](insert-your-image-link-here)
 
 ---
