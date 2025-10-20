@@ -4,7 +4,8 @@
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Excel Fundamentals | Data Protection | Analytical Automation  
 
-![Insert Tableau or Power BI Dashboard Screenshot Here](WEEK_1_EXCEL/VISUAL/EXCELDASHBOARD.png)
+!![Excel Dashboard](./WEEK_1_EXCEL/VISUAL/EXCELDASHBOARD.png)
+
 
 ---
 
