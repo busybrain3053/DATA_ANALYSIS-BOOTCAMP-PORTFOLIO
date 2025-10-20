@@ -14,7 +14,7 @@
 This workbook explored the integration of **data engineering, compliance, and analytics within Microsoft Azure**.  
 Through lectures, hands-on research, and scenario-based analysis, I learned how to design a secure, scalable, and compliant cloud infrastructure for business data management.  
 
-The key focus was the **Paws & Whiskers** project — a case study where I proposed an Azure-based solution to replace manual data collection and enable automated analytics, ensuring compliance with UK data protection laws such as **GDPR** and the **Data Protection Act 2018**.  
+The key focus was the **Paws & Whiskers** project  a case study where I proposed an Azure-based solution to replace manual data collection and enable automated analytics, ensuring compliance with UK data protection laws such as **GDPR** and the **Data Protection Act 2018**.  
 
 ---
 
@@ -110,7 +110,7 @@ Integrated **Power BI** directly with Azure SQL and Synapse to visualise KPIs su
 ## Outcome  
 
 This module strengthened my understanding of **cloud-based data ecosystems** and their real-world use in finance, retail, and health analytics.  
-By combining Azure infrastructure with strong governance principles, I learned to design systems that are **efficient, secure, and compliant** — the core of modern data strategy.
+By combining Azure infrastructure with strong governance principles, I learned to design systems that are **efficient, secure, and compliant** the core of modern data strategy.
 
 
 ---
