@@ -4,7 +4,8 @@
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Relational Database Design | Query Writing | Business Data Management  
 
-![Insert SQL Query or Database Schema Screenshot Here](insert-your-image-link-here)
+![SQL Query Screenshot](./VISUAL/SQLQUERY.png)
+
 
 ---
 
