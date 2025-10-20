@@ -4,7 +4,8 @@
 **Bootcamp:** 8-Week Data Analyst Programme  
 **Workbook Focus:** Cloud Data Architecture | Data Governance | Microsoft Azure  
 
-![Insert Azure Architecture or Power BI Dashboard Screenshot Here](insert-your-image-link-here)
+![Azure Dashboard](./VISUAL/AZUREDASHBOARD.png)
+
 
 ---
 
